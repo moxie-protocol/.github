@@ -17,7 +17,7 @@ To learn more about Moxie protocol, check out our official 📄 whitepaper [here
 
 ### Start building with Moxie
 
-Check out our official 📖 documentation [here](https://developer.moxie.xyz) to start building on top of Moxie protocol subgraphs & [contracts](https://github.com/moxie-protocol/contracts).
+Check out our official 📖 docs [here](https://developer.moxie.xyz) to start building on top of Moxie protocol subgraphs & [contracts](https://github.com/moxie-protocol/contracts).
 
 If you have any ❓ questions, you can reach out for help in the [/airstack Farcaster channel](https://warpcast.com/~/channel/airstack).
 
