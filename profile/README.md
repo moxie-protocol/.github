@@ -13,17 +13,17 @@ However, there is one uniquely onchain ingredient missing from Farcaster that Mo
 
 Quite simply, Moxie enables efficient onchain economies to be woven throughout Farcaster -- into every cast, frame, action, dc, client, app, promotion, and more.
 
-To learn more about Moxie protocol, check out our official whitepaper [here](https://build.moxie.xyz/).
+To learn more about Moxie protocol, check out our official 📄 whitepaper [here](https://build.moxie.xyz/).
 
 ### Start building with Moxie
 
-Check out our official documentation [here](https://developer.moxie.xyz) to start building on top of Moxie protocol subgraphs & [contracts](https://github.com/moxie-protocol/contracts).
+Check out our official 📖 documentation [here](https://developer.moxie.xyz) to start building on top of Moxie protocol subgraphs & [contracts](https://github.com/moxie-protocol/contracts).
 
-If you have any questions, you can reach out for help in the [/airstack Farcaster channel](https://warpcast.com/~/channel/airstack).
+If you have any ❓ questions, you can reach out for help in the [/airstack Farcaster channel](https://warpcast.com/~/channel/airstack).
 
 ### Contributing to the protocol
 
-Open-source is in the heart of Moxie protocol and we welcome your contribution to our source code. You can contribute to the following repository by following respective `CONTRIBUTING.md` guidelines:
+Open-source is in the 💜 heart of Moxie protocol and we welcome your contribution to our source code. You can contribute to the following repository by following respective `CONTRIBUTING.md` guidelines:
 
 - [Contracts](https://github.com/moxie-protocol/contracts)
 
