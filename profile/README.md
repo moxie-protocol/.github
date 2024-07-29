@@ -17,7 +17,7 @@ To learn more about Moxie protocol, check out our official 📄 whitepaper [here
 
 ### Start building with Moxie
 
-Check out our official 📖 docs [here](https://developer.moxie.xyz) to start building on top of Moxie protocol subgraphs & [contracts](https://github.com/moxie-protocol/contracts).
+Check out our official 📖 docs [here](https://developer.moxie.xyz) to start building on top of Moxie protocol [subgraphs](https://github.com/moxie-protocol/Subgraphs) & [contracts](https://github.com/moxie-protocol/contracts).
 
 If you have any ❓ questions, you can reach out for help in the [/airstack Farcaster channel](https://warpcast.com/~/channel/airstack).
 
@@ -25,6 +25,6 @@ If you have any ❓ questions, you can reach out for help in the [/airstack Farc
 
 Open-source is in the 💜 heart of Moxie protocol and we welcome your contribution to our source code. You can contribute to the following repository by following respective `CONTRIBUTING.md` guidelines:
 
+- [Subgraphs](https://github.com/moxie-protocol/Subgraphs)
 - [Contracts](https://github.com/moxie-protocol/contracts)
 
-Subgraph repository will be open-sourced soon.
