@@ -5,13 +5,15 @@
   <h1 align="center">Moxie Protocol</h1>
 </div>
 
-Moxie is a community-owned and community-governed Farcaster protocol. Our mission is to grow the Farcaster GDP.
+Moxie is your onchain AI assistant—analyzing transactions, unlocking social alpha, and executing trades on your behalf.
 
-The core protocol team, from [Airstack](https://github.com/Airstack-xyz), have been building on Farcaster for nearly two years. We believe that Farcaster provides a fantastic tableau for next generation social networks.
+- Moxie provides no-code AI agents that analyze, inform, trade and help you earn.
 
-However, there is one uniquely onchain ingredient missing from Farcaster that Moxie aims to fill: Economic Incentives at the protocol level. 
+- Turbocharged with the world’s first tokenized agent skills marketplace. 
 
-Quite simply, Moxie enables efficient onchain economies to be woven throughout Farcaster -- into every cast, frame, action, dc, client, app, promotion, and more.
+- Made possible by the most powerful social token launchpad on the Base blockchain.
+
+The core protocol team, from [Airstack](https://github.com/Airstack-xyz), have been building on base for nearly three years.
 
 To learn more about Moxie protocol, check out our official 📄 whitepaper [here](https://build.moxie.xyz/).
 
